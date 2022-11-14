@@ -14,7 +14,7 @@ public class practicaListas {
         list = separarPalabras(new String[]{args[0]}, list);
 
 
-        String palabra = args[1];//s.nextLine();
+        String palabra = args[1];
         cantidadPalabra(list, palabra);
 
 
